@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-02-20T06:12:14.220878800Z</date>
+  <millis>1645337534220</millis>
+  <nanos>878800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>logger.Main</class>
+  <method>setup</method>
+  <thread>1</thread>
+  <message>[Logger]Setup complete.</message>
+</record>
+<record>
+  <date>2022-02-20T06:12:14.264880500Z</date>
+  <millis>1645337534264</millis>
+  <nanos>880500</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>logger.Main</class>
+  <method>start</method>
+  <thread>1</thread>
+  <message>[Logger]Start running entry.start()...</message>
+</record>
+<record>
+  <date>2022-02-20T06:12:14.524826600Z</date>
+  <millis>1645337534524</millis>
+  <nanos>826600</nanos>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>main.Main</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>[Bill checker]Connecting...</message>
+</record>
+<record>
+  <date>2022-02-20T06:12:15.333419300Z</date>
+  <millis>1645337535333</millis>
+  <nanos>419300</nanos>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>main.Main</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>[Bill checker]Connected.</message>
+</record>
+<record>
+  <date>2022-02-20T06:12:15.363609600Z</date>
+  <millis>1645337535363</millis>
+  <nanos>609600</nanos>
+  <sequence>4</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>main.Main</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>[Bill checker]Getting data...</message>
+</record>
+<record>
+  <date>2022-02-20T06:12:15.381611700Z</date>
+  <millis>1645337535381</millis>
+  <nanos>611700</nanos>
+  <sequence>5</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>main.Main</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>[Bill checker]Got data.</message>
+</record>
+<record>
+  <date>2022-02-20T06:12:15.384621700Z</date>
+  <millis>1645337535384</millis>
+  <nanos>621700</nanos>
+  <sequence>6</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>main.Main</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Starting frm...</message>
+</record>
+</log>
